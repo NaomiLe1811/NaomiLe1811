@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align=center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=000000&width=435&lines=Hi+There!+👋;I'm+Naomi+Le" alt="Typing SVG" /></a>
 </h1>
 
@@ -10,9 +10,9 @@
 - 💞️ I’m looking to collaborate on making video games
 - 📫 How to reach me: thaonguyenle1811@gmail.com
 
-  <div align="center"> 
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank" />
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
