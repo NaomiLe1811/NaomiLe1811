@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align=center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=000000&width=435&lines=Hi+There!+👋;I'm+Naomi+Le" alt="Typing SVG" /></a>
+</h1>
+
 - 👋 Hi, I’m @NaomiLe1811
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning C#
