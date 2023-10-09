@@ -10,6 +10,12 @@
 - 💞️ I’m looking to collaborate on making video games
 - 📫 How to reach me: thaonguyenle1811@gmail.com
 
+  <div align="center"> 
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://www.linkedin.com/in/nguyen-le-a292331a6/" target="_blank" />
+  </a>
+</div>
+
 <!---
 NaomiLe1811/NaomiLe1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
